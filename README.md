@@ -34,4 +34,4 @@ Run the container using:
 ----
 I originally created this image for use with [Paperless-ng](https://github.com/jonaswinkler/paperless-ng) on a Raspberry Pi 4.
 
-A template docker-compose file for installing paperless-ng on `arm` systems can be found at - https://github.com/abhilesh/self-hosted_docker_setups
+A template docker-compose file for installing paperless-ng on `arm` systems can be found at - https://github.com/abhilesh/self-hosted_docker_setups/tree/main/paperless-ng
